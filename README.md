@@ -1,9 +1,9 @@
 # Explainable Linear Regressions
 This repository explores the linear regression algorithm from scracth and goes from validating data and assumptions to train the learning algorithm, to the implementation of techniques used to assess interpretaibility and explainability for Responsible AI purposes.
 
-The goal here is to explore uni and multivariate linear regression and logistic regression. Here is a list of the developments:
-
 ## Univariate linear regression:
+
+I develop implementation of the model from scratch as well as some most used techniques to explain its decision making process:
 
   ### For the model:
     * Linear model
